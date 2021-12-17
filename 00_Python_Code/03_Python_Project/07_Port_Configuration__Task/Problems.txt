@@ -1,0 +1,2 @@
+1- open with absoulute path
+2- Divide Project into Libraries
